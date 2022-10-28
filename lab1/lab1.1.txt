@@ -1,0 +1,4 @@
+print(np.version.full_version) - использую vscode, ввел в файле Python. Numpy уже был установлен ранее.
+
+Лог:
+1.23.4
